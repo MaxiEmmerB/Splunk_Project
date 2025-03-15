@@ -7,5 +7,5 @@ This report provides insights into Windows security event log analysis using Spl
 
 ## Key Findings
 - Investigated **authentication success/failure trends** (Event Codes 4624, 4625).
-- Analyzed [[privilege escalations and enumeration attempts]].
-- Proposed [[security monitoring enhancements]].
+- Analyzed **privilege escalations and enumeration attempts**.
+- Proposed **security monitoring enhancements**.
